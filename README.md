@@ -6,3 +6,7 @@ contrib: [Kris savoy](https://github.com/kris-savoy/airflow-salt "Devops / autom
 ```
 Simple copy of http_operator to work with https REST interfaces
 ```
+
+---
+
+More from me on data platforms, streaming and IoT: [novatechflow.com](https://www.novatechflow.com)
